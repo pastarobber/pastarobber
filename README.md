@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pastarobber&show_icons=true&theme=blue)
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pastarobber&theme=react-dark&bg_color=20232a&hide_border=true&line=007FFF&color=007FFF" width="94%"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=pastarobber&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=007FFF&text_color=FFFFFF&title_color=007FFF&count_private=true" width="56%" />
 </a>
+
 
 
 <h3 align="center">🛠 Tools 🛠</h3>
