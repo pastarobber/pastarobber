@@ -2,12 +2,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pastarobber&show_icons=true&theme=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=tokyonight)
 
 
