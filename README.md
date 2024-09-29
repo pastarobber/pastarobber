@@ -5,7 +5,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pastarobber.pastarobber)
+
 
 
 <br>
