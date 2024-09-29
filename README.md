@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pastarobber&show_icons=true&theme=blue" width="55%" height="200" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pastarobber&show_icons=true&theme=blue" width="60%" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=donut&show_icons=true&theme=blue&hide_border=true&bg_color=FFFFFF&icon_color=007FFF&text_color=000000&title_color=007FFF&count_private=true&exclude_repo=Face-Transfer-Application" width="30%" height="200" />
 </p>
 
