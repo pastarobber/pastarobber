@@ -2,7 +2,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pastarobber&show_icons=true&theme=blue)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=pastarobber&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=007FFF&text_color=FFFFFF&title_color=007FFF&count_private=true" width="56%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FFFFFF&icon_color=007FFF&text_color=000000&title_color=007FFF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
 </a>
 
 
