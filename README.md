@@ -6,13 +6,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=donut&show_icons=true&theme=blue&hide_border=true&bg_color=FFFFFF&icon_color=007FFF&text_color=000000&title_color=007FFF&count_private=true&exclude_repo=Face-Transfer-Application" width="30%" height="200" />
 </p>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-<br>
+***
+
+### 🛠 Tools 🛠
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black)
 
 ### My Blog 🍝
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@pastarobber/posts)
