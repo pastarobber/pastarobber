@@ -2,9 +2,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pastarobber&show_icons=true&theme=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=dracula)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=radical&bg_color=0000FF&text_color=FFFFFF)
 
 
 
