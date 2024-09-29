@@ -5,6 +5,15 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FFFFFF&icon_color=007FFF&text_color=000000&title_color=007FFF&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
 </a>
 
+<div style="display: flex; align-items: center; justify-content: center; border: 2px solid #007FFF; border-radius: 10px; padding: 10px; background-color: #FFFFFF;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=pastarobber&show_icons=true&theme=blue&hide_border=true" width="45%" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FFFFFF&icon_color=007FFF&text_color=000000&title_color=007FFF&count_private=true&exclude_repo=Face-Transfer-Application" width="45%" />
+  </a>
+</div>
+
 
 
 <h3 align="center">🛠 Tools 🛠</h3>
