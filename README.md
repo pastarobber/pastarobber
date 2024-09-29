@@ -2,7 +2,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pastarobber&show_icons=true&theme=blue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=compact&theme=blue)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pastarobber&theme=react-dark&bg_color=20232a&hide_border=true&line=007FFF&color=007FFF" width="94%"/>
+</a>
 
 
 <h3 align="center">🛠 Tools 🛠</h3>
