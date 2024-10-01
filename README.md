@@ -6,6 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pastarobber&layout=donut&show_icons=true&theme=blue&hide_border=true&bg_color=FFFFFF&icon_color=007FFF&text_color=000000&title_color=007FFF&count_private=true&exclude_repo=Face-Transfer-Application" width="30%" height="200" />
 </p>
 
+<img src="https://github.com/pastarobber/pastarobber/blob/output/github-snake-dark.svg" width="100%">
+
 ## 
 
  <h3 align='center'> 🛠 Tools 🛠 </h3>
