@@ -1,4 +1,4 @@
-## I like pasta 👋
+## I 🩵 pasta 👋
 
 <!-- 중앙 내용 -->
 <p align="left">
