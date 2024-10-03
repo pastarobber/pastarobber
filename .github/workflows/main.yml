@@ -22,7 +22,7 @@ jobs:
           github_user_name: pastarobber
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-blue.svg?color_snake=#052456&color_dots=#EEEEEE,#BBDEFB,#42A5F5,#1976D2,#0D47A1&color_background=#FFFFFF # 뱀 색상을 파란색, 도트를 파란색 계열로, 배경은 흰색으로 설정
+            dist/github-snake-blue.svg?color_snake=#052456&color_dots=#EEEEEE,#BBDEFB,#64B5F6,#1E88E5,#1565C0&color_background=#FFFFFF # 뱀 색상을 파란색, 도트를 파란색 계열로, 배경은 흰색으로 설정
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
